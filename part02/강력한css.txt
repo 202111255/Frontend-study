@@ -36,4 +36,13 @@ tag {
 - color` : 폰트의 색상을 변경해주는 속성
 
 
+<css 박스 모델>
+웹 브라우저에서 HTML Element를 구성할 때 각각의 요소가 차지하는 박스 공간을 정의한 모델
+- 모든 HTML 요소는 박스 형태로 되어있음!
+
+
+<box-sizing 속성>
+content-box: content 영역을 기준으로 box의 size를 적용
+border-box: border 영역을 기준으로 box의 size를 적용
+
 
