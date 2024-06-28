@@ -30,7 +30,7 @@ tag {
 
 <폰트 기본속성>
 - font-size : 폰트의 사이즈를 조절하는 속성
-- font-weight : 폰트의 굵기를 조절하는 속성
+- font-weight : `폰트의 굵기를 조절하는 속성
 - font-style : 글자의 모양을 정하는 속성으로 기울임 여부를 정함
 - test-decoration : 텍스트에 장식용 선을 추가
 - color` : 폰트의 색상을 변경해주는 속성
@@ -46,3 +46,6 @@ content-box: content 영역을 기준으로 box의 size를 적용
 border-box: border 영역을 기준으로 box의 size를 적용
 
 
+<inline vs block>
+인라인 요소를 블록 요소로 바꾸는 방법: display: block;
+블록 요소를 인라인 요소로 바꾸는 방법: display: inline;
